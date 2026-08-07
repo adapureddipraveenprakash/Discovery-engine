@@ -1,0 +1,1602 @@
+[
+  {
+    "item_idx":0,
+    "article_id":"1000000",
+    "category":"Topwear",
+    "product_type":"T-shirt",
+    "description":"black t-shirt for everyday wear",
+    "image_path":"images\\1000000.jpg"
+  },
+  {
+    "item_idx":1,
+    "article_id":"1000001",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"beige skirt for everyday wear",
+    "image_path":"images\\1000001.jpg"
+  },
+  {
+    "item_idx":2,
+    "article_id":"1000002",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"navy boots for everyday wear",
+    "image_path":"images\\1000002.jpg"
+  },
+  {
+    "item_idx":3,
+    "article_id":"1000003",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"white bag for everyday wear",
+    "image_path":"images\\1000003.jpg"
+  },
+  {
+    "item_idx":4,
+    "article_id":"1000004",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"blue mini dress for everyday wear",
+    "image_path":"images\\1000004.jpg"
+  },
+  {
+    "item_idx":5,
+    "article_id":"1000005",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"black jacket for everyday wear",
+    "image_path":"images\\1000005.jpg"
+  },
+  {
+    "item_idx":6,
+    "article_id":"1000006",
+    "category":"Topwear",
+    "product_type":"T-shirt",
+    "description":"beige t-shirt for everyday wear",
+    "image_path":"images\\1000006.jpg"
+  },
+  {
+    "item_idx":7,
+    "article_id":"1000007",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"black trousers for everyday wear",
+    "image_path":"images\\1000007.jpg"
+  },
+  {
+    "item_idx":8,
+    "article_id":"1000008",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"blue boots for everyday wear",
+    "image_path":"images\\1000008.jpg"
+  },
+  {
+    "item_idx":9,
+    "article_id":"1000009",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"grey belt for everyday wear",
+    "image_path":"images\\1000009.jpg"
+  },
+  {
+    "item_idx":10,
+    "article_id":"1000010",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"red mini dress for everyday wear",
+    "image_path":"images\\1000010.jpg"
+  },
+  {
+    "item_idx":11,
+    "article_id":"1000011",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"navy jacket for everyday wear",
+    "image_path":"images\\1000011.jpg"
+  },
+  {
+    "item_idx":12,
+    "article_id":"1000012",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"green sweater for everyday wear",
+    "image_path":"images\\1000012.jpg"
+  },
+  {
+    "item_idx":13,
+    "article_id":"1000013",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"navy skirt for everyday wear",
+    "image_path":"images\\1000013.jpg"
+  },
+  {
+    "item_idx":14,
+    "article_id":"1000014",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"green boots for everyday wear",
+    "image_path":"images\\1000014.jpg"
+  },
+  {
+    "item_idx":15,
+    "article_id":"1000015",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"white bag for everyday wear",
+    "image_path":"images\\1000015.jpg"
+  },
+  {
+    "item_idx":16,
+    "article_id":"1000016",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"white maxi dress for everyday wear",
+    "image_path":"images\\1000016.jpg"
+  },
+  {
+    "item_idx":17,
+    "article_id":"1000017",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"green coat for everyday wear",
+    "image_path":"images\\1000017.jpg"
+  },
+  {
+    "item_idx":18,
+    "article_id":"1000018",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"black shirt for everyday wear",
+    "image_path":"images\\1000018.jpg"
+  },
+  {
+    "item_idx":19,
+    "article_id":"1000019",
+    "category":"Bottomwear",
+    "product_type":"Shorts",
+    "description":"white shorts for everyday wear",
+    "image_path":"images\\1000019.jpg"
+  },
+  {
+    "item_idx":20,
+    "article_id":"1000020",
+    "category":"Footwear",
+    "product_type":"Heels",
+    "description":"white heels for everyday wear",
+    "image_path":"images\\1000020.jpg"
+  },
+  {
+    "item_idx":21,
+    "article_id":"1000021",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"green scarf for everyday wear",
+    "image_path":"images\\1000021.jpg"
+  },
+  {
+    "item_idx":22,
+    "article_id":"1000022",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"beige mini dress for everyday wear",
+    "image_path":"images\\1000022.jpg"
+  },
+  {
+    "item_idx":23,
+    "article_id":"1000023",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"white blazer for everyday wear",
+    "image_path":"images\\1000023.jpg"
+  },
+  {
+    "item_idx":24,
+    "article_id":"1000024",
+    "category":"Topwear",
+    "product_type":"T-shirt",
+    "description":"beige t-shirt for everyday wear",
+    "image_path":"images\\1000024.jpg"
+  },
+  {
+    "item_idx":25,
+    "article_id":"1000025",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"white skirt for everyday wear",
+    "image_path":"images\\1000025.jpg"
+  },
+  {
+    "item_idx":26,
+    "article_id":"1000026",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"white boots for everyday wear",
+    "image_path":"images\\1000026.jpg"
+  },
+  {
+    "item_idx":27,
+    "article_id":"1000027",
+    "category":"Accessories",
+    "product_type":"Hat",
+    "description":"red hat for everyday wear",
+    "image_path":"images\\1000027.jpg"
+  },
+  {
+    "item_idx":28,
+    "article_id":"1000028",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"green maxi dress for everyday wear",
+    "image_path":"images\\1000028.jpg"
+  },
+  {
+    "item_idx":29,
+    "article_id":"1000029",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"green jacket for everyday wear",
+    "image_path":"images\\1000029.jpg"
+  },
+  {
+    "item_idx":30,
+    "article_id":"1000030",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"beige shirt for everyday wear",
+    "image_path":"images\\1000030.jpg"
+  },
+  {
+    "item_idx":31,
+    "article_id":"1000031",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"white skirt for everyday wear",
+    "image_path":"images\\1000031.jpg"
+  },
+  {
+    "item_idx":32,
+    "article_id":"1000032",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"beige boots for everyday wear",
+    "image_path":"images\\1000032.jpg"
+  },
+  {
+    "item_idx":33,
+    "article_id":"1000033",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"grey belt for everyday wear",
+    "image_path":"images\\1000033.jpg"
+  },
+  {
+    "item_idx":34,
+    "article_id":"1000034",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"red maxi dress for everyday wear",
+    "image_path":"images\\1000034.jpg"
+  },
+  {
+    "item_idx":35,
+    "article_id":"1000035",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"beige blazer for everyday wear",
+    "image_path":"images\\1000035.jpg"
+  },
+  {
+    "item_idx":36,
+    "article_id":"1000036",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"black shirt for everyday wear",
+    "image_path":"images\\1000036.jpg"
+  },
+  {
+    "item_idx":37,
+    "article_id":"1000037",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"black trousers for everyday wear",
+    "image_path":"images\\1000037.jpg"
+  },
+  {
+    "item_idx":38,
+    "article_id":"1000038",
+    "category":"Footwear",
+    "product_type":"Sandals",
+    "description":"blue sandals for everyday wear",
+    "image_path":"images\\1000038.jpg"
+  },
+  {
+    "item_idx":39,
+    "article_id":"1000039",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"white scarf for everyday wear",
+    "image_path":"images\\1000039.jpg"
+  },
+  {
+    "item_idx":40,
+    "article_id":"1000040",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"green midi dress for everyday wear",
+    "image_path":"images\\1000040.jpg"
+  },
+  {
+    "item_idx":41,
+    "article_id":"1000041",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"grey jacket for everyday wear",
+    "image_path":"images\\1000041.jpg"
+  },
+  {
+    "item_idx":42,
+    "article_id":"1000042",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"grey sweater for everyday wear",
+    "image_path":"images\\1000042.jpg"
+  },
+  {
+    "item_idx":43,
+    "article_id":"1000043",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"red trousers for everyday wear",
+    "image_path":"images\\1000043.jpg"
+  },
+  {
+    "item_idx":44,
+    "article_id":"1000044",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"beige boots for everyday wear",
+    "image_path":"images\\1000044.jpg"
+  },
+  {
+    "item_idx":45,
+    "article_id":"1000045",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"blue scarf for everyday wear",
+    "image_path":"images\\1000045.jpg"
+  },
+  {
+    "item_idx":46,
+    "article_id":"1000046",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"blue mini dress for everyday wear",
+    "image_path":"images\\1000046.jpg"
+  },
+  {
+    "item_idx":47,
+    "article_id":"1000047",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"beige coat for everyday wear",
+    "image_path":"images\\1000047.jpg"
+  },
+  {
+    "item_idx":48,
+    "article_id":"1000048",
+    "category":"Topwear",
+    "product_type":"Blouse",
+    "description":"grey blouse for everyday wear",
+    "image_path":"images\\1000048.jpg"
+  },
+  {
+    "item_idx":49,
+    "article_id":"1000049",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"black jeans for everyday wear",
+    "image_path":"images\\1000049.jpg"
+  },
+  {
+    "item_idx":50,
+    "article_id":"1000050",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"navy sneakers for everyday wear",
+    "image_path":"images\\1000050.jpg"
+  },
+  {
+    "item_idx":51,
+    "article_id":"1000051",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"blue belt for everyday wear",
+    "image_path":"images\\1000051.jpg"
+  },
+  {
+    "item_idx":52,
+    "article_id":"1000052",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"white mini dress for everyday wear",
+    "image_path":"images\\1000052.jpg"
+  },
+  {
+    "item_idx":53,
+    "article_id":"1000053",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"blue coat for everyday wear",
+    "image_path":"images\\1000053.jpg"
+  },
+  {
+    "item_idx":54,
+    "article_id":"1000054",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"red sweater for everyday wear",
+    "image_path":"images\\1000054.jpg"
+  },
+  {
+    "item_idx":55,
+    "article_id":"1000055",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"white jeans for everyday wear",
+    "image_path":"images\\1000055.jpg"
+  },
+  {
+    "item_idx":56,
+    "article_id":"1000056",
+    "category":"Footwear",
+    "product_type":"Sandals",
+    "description":"green sandals for everyday wear",
+    "image_path":"images\\1000056.jpg"
+  },
+  {
+    "item_idx":57,
+    "article_id":"1000057",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"red bag for everyday wear",
+    "image_path":"images\\1000057.jpg"
+  },
+  {
+    "item_idx":58,
+    "article_id":"1000058",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"navy maxi dress for everyday wear",
+    "image_path":"images\\1000058.jpg"
+  },
+  {
+    "item_idx":59,
+    "article_id":"1000059",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"black coat for everyday wear",
+    "image_path":"images\\1000059.jpg"
+  },
+  {
+    "item_idx":60,
+    "article_id":"1000060",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"navy shirt for everyday wear",
+    "image_path":"images\\1000060.jpg"
+  },
+  {
+    "item_idx":61,
+    "article_id":"1000061",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"red jeans for everyday wear",
+    "image_path":"images\\1000061.jpg"
+  },
+  {
+    "item_idx":62,
+    "article_id":"1000062",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"navy boots for everyday wear",
+    "image_path":"images\\1000062.jpg"
+  },
+  {
+    "item_idx":63,
+    "article_id":"1000063",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"navy scarf for everyday wear",
+    "image_path":"images\\1000063.jpg"
+  },
+  {
+    "item_idx":64,
+    "article_id":"1000064",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"black mini dress for everyday wear",
+    "image_path":"images\\1000064.jpg"
+  },
+  {
+    "item_idx":65,
+    "article_id":"1000065",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"green blazer for everyday wear",
+    "image_path":"images\\1000065.jpg"
+  },
+  {
+    "item_idx":66,
+    "article_id":"1000066",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"black sweater for everyday wear",
+    "image_path":"images\\1000066.jpg"
+  },
+  {
+    "item_idx":67,
+    "article_id":"1000067",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"green jeans for everyday wear",
+    "image_path":"images\\1000067.jpg"
+  },
+  {
+    "item_idx":68,
+    "article_id":"1000068",
+    "category":"Footwear",
+    "product_type":"Sandals",
+    "description":"beige sandals for everyday wear",
+    "image_path":"images\\1000068.jpg"
+  },
+  {
+    "item_idx":69,
+    "article_id":"1000069",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"beige bag for everyday wear",
+    "image_path":"images\\1000069.jpg"
+  },
+  {
+    "item_idx":70,
+    "article_id":"1000070",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"white mini dress for everyday wear",
+    "image_path":"images\\1000070.jpg"
+  },
+  {
+    "item_idx":71,
+    "article_id":"1000071",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"grey jacket for everyday wear",
+    "image_path":"images\\1000071.jpg"
+  },
+  {
+    "item_idx":72,
+    "article_id":"1000072",
+    "category":"Topwear",
+    "product_type":"T-shirt",
+    "description":"navy t-shirt for everyday wear",
+    "image_path":"images\\1000072.jpg"
+  },
+  {
+    "item_idx":73,
+    "article_id":"1000073",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"grey trousers for everyday wear",
+    "image_path":"images\\1000073.jpg"
+  },
+  {
+    "item_idx":74,
+    "article_id":"1000074",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"red boots for everyday wear",
+    "image_path":"images\\1000074.jpg"
+  },
+  {
+    "item_idx":75,
+    "article_id":"1000075",
+    "category":"Accessories",
+    "product_type":"Hat",
+    "description":"beige hat for everyday wear",
+    "image_path":"images\\1000075.jpg"
+  },
+  {
+    "item_idx":76,
+    "article_id":"1000076",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"beige mini dress for everyday wear",
+    "image_path":"images\\1000076.jpg"
+  },
+  {
+    "item_idx":77,
+    "article_id":"1000077",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"red blazer for everyday wear",
+    "image_path":"images\\1000077.jpg"
+  },
+  {
+    "item_idx":78,
+    "article_id":"1000078",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"green sweater for everyday wear",
+    "image_path":"images\\1000078.jpg"
+  },
+  {
+    "item_idx":79,
+    "article_id":"1000079",
+    "category":"Bottomwear",
+    "product_type":"Shorts",
+    "description":"grey shorts for everyday wear",
+    "image_path":"images\\1000079.jpg"
+  },
+  {
+    "item_idx":80,
+    "article_id":"1000080",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"beige sneakers for everyday wear",
+    "image_path":"images\\1000080.jpg"
+  },
+  {
+    "item_idx":81,
+    "article_id":"1000081",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"white belt for everyday wear",
+    "image_path":"images\\1000081.jpg"
+  },
+  {
+    "item_idx":82,
+    "article_id":"1000082",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"black maxi dress for everyday wear",
+    "image_path":"images\\1000082.jpg"
+  },
+  {
+    "item_idx":83,
+    "article_id":"1000083",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"beige blazer for everyday wear",
+    "image_path":"images\\1000083.jpg"
+  },
+  {
+    "item_idx":84,
+    "article_id":"1000084",
+    "category":"Topwear",
+    "product_type":"Blouse",
+    "description":"black blouse for everyday wear",
+    "image_path":"images\\1000084.jpg"
+  },
+  {
+    "item_idx":85,
+    "article_id":"1000085",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"black jeans for everyday wear",
+    "image_path":"images\\1000085.jpg"
+  },
+  {
+    "item_idx":86,
+    "article_id":"1000086",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"white boots for everyday wear",
+    "image_path":"images\\1000086.jpg"
+  },
+  {
+    "item_idx":87,
+    "article_id":"1000087",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"green bag for everyday wear",
+    "image_path":"images\\1000087.jpg"
+  },
+  {
+    "item_idx":88,
+    "article_id":"1000088",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"beige midi dress for everyday wear",
+    "image_path":"images\\1000088.jpg"
+  },
+  {
+    "item_idx":89,
+    "article_id":"1000089",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"grey coat for everyday wear",
+    "image_path":"images\\1000089.jpg"
+  },
+  {
+    "item_idx":90,
+    "article_id":"1000090",
+    "category":"Topwear",
+    "product_type":"Blouse",
+    "description":"navy blouse for everyday wear",
+    "image_path":"images\\1000090.jpg"
+  },
+  {
+    "item_idx":91,
+    "article_id":"1000091",
+    "category":"Bottomwear",
+    "product_type":"Shorts",
+    "description":"beige shorts for everyday wear",
+    "image_path":"images\\1000091.jpg"
+  },
+  {
+    "item_idx":92,
+    "article_id":"1000092",
+    "category":"Footwear",
+    "product_type":"Heels",
+    "description":"blue heels for everyday wear",
+    "image_path":"images\\1000092.jpg"
+  },
+  {
+    "item_idx":93,
+    "article_id":"1000093",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"white belt for everyday wear",
+    "image_path":"images\\1000093.jpg"
+  },
+  {
+    "item_idx":94,
+    "article_id":"1000094",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"blue midi dress for everyday wear",
+    "image_path":"images\\1000094.jpg"
+  },
+  {
+    "item_idx":95,
+    "article_id":"1000095",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"blue coat for everyday wear",
+    "image_path":"images\\1000095.jpg"
+  },
+  {
+    "item_idx":96,
+    "article_id":"1000096",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"grey sweater for everyday wear",
+    "image_path":"images\\1000096.jpg"
+  },
+  {
+    "item_idx":97,
+    "article_id":"1000097",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"white jeans for everyday wear",
+    "image_path":"images\\1000097.jpg"
+  },
+  {
+    "item_idx":98,
+    "article_id":"1000098",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"blue sneakers for everyday wear",
+    "image_path":"images\\1000098.jpg"
+  },
+  {
+    "item_idx":99,
+    "article_id":"1000099",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"white scarf for everyday wear",
+    "image_path":"images\\1000099.jpg"
+  },
+  {
+    "item_idx":100,
+    "article_id":"1000100",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"beige midi dress for everyday wear",
+    "image_path":"images\\1000100.jpg"
+  },
+  {
+    "item_idx":101,
+    "article_id":"1000101",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"grey jacket for everyday wear",
+    "image_path":"images\\1000101.jpg"
+  },
+  {
+    "item_idx":102,
+    "article_id":"1000102",
+    "category":"Topwear",
+    "product_type":"Blouse",
+    "description":"blue blouse for everyday wear",
+    "image_path":"images\\1000102.jpg"
+  },
+  {
+    "item_idx":103,
+    "article_id":"1000103",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"red trousers for everyday wear",
+    "image_path":"images\\1000103.jpg"
+  },
+  {
+    "item_idx":104,
+    "article_id":"1000104",
+    "category":"Footwear",
+    "product_type":"Heels",
+    "description":"beige heels for everyday wear",
+    "image_path":"images\\1000104.jpg"
+  },
+  {
+    "item_idx":105,
+    "article_id":"1000105",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"grey bag for everyday wear",
+    "image_path":"images\\1000105.jpg"
+  },
+  {
+    "item_idx":106,
+    "article_id":"1000106",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"white mini dress for everyday wear",
+    "image_path":"images\\1000106.jpg"
+  },
+  {
+    "item_idx":107,
+    "article_id":"1000107",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"black jacket for everyday wear",
+    "image_path":"images\\1000107.jpg"
+  },
+  {
+    "item_idx":108,
+    "article_id":"1000108",
+    "category":"Topwear",
+    "product_type":"T-shirt",
+    "description":"beige t-shirt for everyday wear",
+    "image_path":"images\\1000108.jpg"
+  },
+  {
+    "item_idx":109,
+    "article_id":"1000109",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"blue trousers for everyday wear",
+    "image_path":"images\\1000109.jpg"
+  },
+  {
+    "item_idx":110,
+    "article_id":"1000110",
+    "category":"Footwear",
+    "product_type":"Heels",
+    "description":"grey heels for everyday wear",
+    "image_path":"images\\1000110.jpg"
+  },
+  {
+    "item_idx":111,
+    "article_id":"1000111",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"blue belt for everyday wear",
+    "image_path":"images\\1000111.jpg"
+  },
+  {
+    "item_idx":112,
+    "article_id":"1000112",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"navy midi dress for everyday wear",
+    "image_path":"images\\1000112.jpg"
+  },
+  {
+    "item_idx":113,
+    "article_id":"1000113",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"black coat for everyday wear",
+    "image_path":"images\\1000113.jpg"
+  },
+  {
+    "item_idx":114,
+    "article_id":"1000114",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"red sweater for everyday wear",
+    "image_path":"images\\1000114.jpg"
+  },
+  {
+    "item_idx":115,
+    "article_id":"1000115",
+    "category":"Bottomwear",
+    "product_type":"Shorts",
+    "description":"red shorts for everyday wear",
+    "image_path":"images\\1000115.jpg"
+  },
+  {
+    "item_idx":116,
+    "article_id":"1000116",
+    "category":"Footwear",
+    "product_type":"Heels",
+    "description":"grey heels for everyday wear",
+    "image_path":"images\\1000116.jpg"
+  },
+  {
+    "item_idx":117,
+    "article_id":"1000117",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"beige belt for everyday wear",
+    "image_path":"images\\1000117.jpg"
+  },
+  {
+    "item_idx":118,
+    "article_id":"1000118",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"beige maxi dress for everyday wear",
+    "image_path":"images\\1000118.jpg"
+  },
+  {
+    "item_idx":119,
+    "article_id":"1000119",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"black jacket for everyday wear",
+    "image_path":"images\\1000119.jpg"
+  },
+  {
+    "item_idx":120,
+    "article_id":"1000120",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"black shirt for everyday wear",
+    "image_path":"images\\1000120.jpg"
+  },
+  {
+    "item_idx":121,
+    "article_id":"1000121",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"grey jeans for everyday wear",
+    "image_path":"images\\1000121.jpg"
+  },
+  {
+    "item_idx":122,
+    "article_id":"1000122",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"black boots for everyday wear",
+    "image_path":"images\\1000122.jpg"
+  },
+  {
+    "item_idx":123,
+    "article_id":"1000123",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"navy bag for everyday wear",
+    "image_path":"images\\1000123.jpg"
+  },
+  {
+    "item_idx":124,
+    "article_id":"1000124",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"white midi dress for everyday wear",
+    "image_path":"images\\1000124.jpg"
+  },
+  {
+    "item_idx":125,
+    "article_id":"1000125",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"beige blazer for everyday wear",
+    "image_path":"images\\1000125.jpg"
+  },
+  {
+    "item_idx":126,
+    "article_id":"1000126",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"white sweater for everyday wear",
+    "image_path":"images\\1000126.jpg"
+  },
+  {
+    "item_idx":127,
+    "article_id":"1000127",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"black trousers for everyday wear",
+    "image_path":"images\\1000127.jpg"
+  },
+  {
+    "item_idx":128,
+    "article_id":"1000128",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"blue sneakers for everyday wear",
+    "image_path":"images\\1000128.jpg"
+  },
+  {
+    "item_idx":129,
+    "article_id":"1000129",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"red scarf for everyday wear",
+    "image_path":"images\\1000129.jpg"
+  },
+  {
+    "item_idx":130,
+    "article_id":"1000130",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"green midi dress for everyday wear",
+    "image_path":"images\\1000130.jpg"
+  },
+  {
+    "item_idx":131,
+    "article_id":"1000131",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"red jacket for everyday wear",
+    "image_path":"images\\1000131.jpg"
+  },
+  {
+    "item_idx":132,
+    "article_id":"1000132",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"navy sweater for everyday wear",
+    "image_path":"images\\1000132.jpg"
+  },
+  {
+    "item_idx":133,
+    "article_id":"1000133",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"grey skirt for everyday wear",
+    "image_path":"images\\1000133.jpg"
+  },
+  {
+    "item_idx":134,
+    "article_id":"1000134",
+    "category":"Footwear",
+    "product_type":"Sandals",
+    "description":"white sandals for everyday wear",
+    "image_path":"images\\1000134.jpg"
+  },
+  {
+    "item_idx":135,
+    "article_id":"1000135",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"grey bag for everyday wear",
+    "image_path":"images\\1000135.jpg"
+  },
+  {
+    "item_idx":136,
+    "article_id":"1000136",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"white mini dress for everyday wear",
+    "image_path":"images\\1000136.jpg"
+  },
+  {
+    "item_idx":137,
+    "article_id":"1000137",
+    "category":"Outerwear",
+    "product_type":"Jacket",
+    "description":"beige jacket for everyday wear",
+    "image_path":"images\\1000137.jpg"
+  },
+  {
+    "item_idx":138,
+    "article_id":"1000138",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"navy shirt for everyday wear",
+    "image_path":"images\\1000138.jpg"
+  },
+  {
+    "item_idx":139,
+    "article_id":"1000139",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"white skirt for everyday wear",
+    "image_path":"images\\1000139.jpg"
+  },
+  {
+    "item_idx":140,
+    "article_id":"1000140",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"green boots for everyday wear",
+    "image_path":"images\\1000140.jpg"
+  },
+  {
+    "item_idx":141,
+    "article_id":"1000141",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"navy scarf for everyday wear",
+    "image_path":"images\\1000141.jpg"
+  },
+  {
+    "item_idx":142,
+    "article_id":"1000142",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"red maxi dress for everyday wear",
+    "image_path":"images\\1000142.jpg"
+  },
+  {
+    "item_idx":143,
+    "article_id":"1000143",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"black blazer for everyday wear",
+    "image_path":"images\\1000143.jpg"
+  },
+  {
+    "item_idx":144,
+    "article_id":"1000144",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"white shirt for everyday wear",
+    "image_path":"images\\1000144.jpg"
+  },
+  {
+    "item_idx":145,
+    "article_id":"1000145",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"red trousers for everyday wear",
+    "image_path":"images\\1000145.jpg"
+  },
+  {
+    "item_idx":146,
+    "article_id":"1000146",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"white sneakers for everyday wear",
+    "image_path":"images\\1000146.jpg"
+  },
+  {
+    "item_idx":147,
+    "article_id":"1000147",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"red belt for everyday wear",
+    "image_path":"images\\1000147.jpg"
+  },
+  {
+    "item_idx":148,
+    "article_id":"1000148",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"beige maxi dress for everyday wear",
+    "image_path":"images\\1000148.jpg"
+  },
+  {
+    "item_idx":149,
+    "article_id":"1000149",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"green blazer for everyday wear",
+    "image_path":"images\\1000149.jpg"
+  },
+  {
+    "item_idx":150,
+    "article_id":"1000150",
+    "category":"Topwear",
+    "product_type":"Blouse",
+    "description":"red blouse for everyday wear",
+    "image_path":"images\\1000150.jpg"
+  },
+  {
+    "item_idx":151,
+    "article_id":"1000151",
+    "category":"Bottomwear",
+    "product_type":"Shorts",
+    "description":"red shorts for everyday wear",
+    "image_path":"images\\1000151.jpg"
+  },
+  {
+    "item_idx":152,
+    "article_id":"1000152",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"white sneakers for everyday wear",
+    "image_path":"images\\1000152.jpg"
+  },
+  {
+    "item_idx":153,
+    "article_id":"1000153",
+    "category":"Accessories",
+    "product_type":"Hat",
+    "description":"red hat for everyday wear",
+    "image_path":"images\\1000153.jpg"
+  },
+  {
+    "item_idx":154,
+    "article_id":"1000154",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"black midi dress for everyday wear",
+    "image_path":"images\\1000154.jpg"
+  },
+  {
+    "item_idx":155,
+    "article_id":"1000155",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"navy coat for everyday wear",
+    "image_path":"images\\1000155.jpg"
+  },
+  {
+    "item_idx":156,
+    "article_id":"1000156",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"navy shirt for everyday wear",
+    "image_path":"images\\1000156.jpg"
+  },
+  {
+    "item_idx":157,
+    "article_id":"1000157",
+    "category":"Bottomwear",
+    "product_type":"Shorts",
+    "description":"blue shorts for everyday wear",
+    "image_path":"images\\1000157.jpg"
+  },
+  {
+    "item_idx":158,
+    "article_id":"1000158",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"white sneakers for everyday wear",
+    "image_path":"images\\1000158.jpg"
+  },
+  {
+    "item_idx":159,
+    "article_id":"1000159",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"navy bag for everyday wear",
+    "image_path":"images\\1000159.jpg"
+  },
+  {
+    "item_idx":160,
+    "article_id":"1000160",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"black mini dress for everyday wear",
+    "image_path":"images\\1000160.jpg"
+  },
+  {
+    "item_idx":161,
+    "article_id":"1000161",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"navy coat for everyday wear",
+    "image_path":"images\\1000161.jpg"
+  },
+  {
+    "item_idx":162,
+    "article_id":"1000162",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"navy sweater for everyday wear",
+    "image_path":"images\\1000162.jpg"
+  },
+  {
+    "item_idx":163,
+    "article_id":"1000163",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"red jeans for everyday wear",
+    "image_path":"images\\1000163.jpg"
+  },
+  {
+    "item_idx":164,
+    "article_id":"1000164",
+    "category":"Footwear",
+    "product_type":"Sandals",
+    "description":"black sandals for everyday wear",
+    "image_path":"images\\1000164.jpg"
+  },
+  {
+    "item_idx":165,
+    "article_id":"1000165",
+    "category":"Accessories",
+    "product_type":"Scarf",
+    "description":"beige scarf for everyday wear",
+    "image_path":"images\\1000165.jpg"
+  },
+  {
+    "item_idx":166,
+    "article_id":"1000166",
+    "category":"Dress",
+    "product_type":"Mini dress",
+    "description":"beige mini dress for everyday wear",
+    "image_path":"images\\1000166.jpg"
+  },
+  {
+    "item_idx":167,
+    "article_id":"1000167",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"white blazer for everyday wear",
+    "image_path":"images\\1000167.jpg"
+  },
+  {
+    "item_idx":168,
+    "article_id":"1000168",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"blue shirt for everyday wear",
+    "image_path":"images\\1000168.jpg"
+  },
+  {
+    "item_idx":169,
+    "article_id":"1000169",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"beige trousers for everyday wear",
+    "image_path":"images\\1000169.jpg"
+  },
+  {
+    "item_idx":170,
+    "article_id":"1000170",
+    "category":"Footwear",
+    "product_type":"Boots",
+    "description":"navy boots for everyday wear",
+    "image_path":"images\\1000170.jpg"
+  },
+  {
+    "item_idx":171,
+    "article_id":"1000171",
+    "category":"Accessories",
+    "product_type":"Hat",
+    "description":"black hat for everyday wear",
+    "image_path":"images\\1000171.jpg"
+  },
+  {
+    "item_idx":172,
+    "article_id":"1000172",
+    "category":"Dress",
+    "product_type":"Midi dress",
+    "description":"green midi dress for everyday wear",
+    "image_path":"images\\1000172.jpg"
+  },
+  {
+    "item_idx":173,
+    "article_id":"1000173",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"beige coat for everyday wear",
+    "image_path":"images\\1000173.jpg"
+  },
+  {
+    "item_idx":174,
+    "article_id":"1000174",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"navy shirt for everyday wear",
+    "image_path":"images\\1000174.jpg"
+  },
+  {
+    "item_idx":175,
+    "article_id":"1000175",
+    "category":"Bottomwear",
+    "product_type":"Jeans",
+    "description":"blue jeans for everyday wear",
+    "image_path":"images\\1000175.jpg"
+  },
+  {
+    "item_idx":176,
+    "article_id":"1000176",
+    "category":"Footwear",
+    "product_type":"Sneakers",
+    "description":"grey sneakers for everyday wear",
+    "image_path":"images\\1000176.jpg"
+  },
+  {
+    "item_idx":177,
+    "article_id":"1000177",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"beige belt for everyday wear",
+    "image_path":"images\\1000177.jpg"
+  },
+  {
+    "item_idx":178,
+    "article_id":"1000178",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"green maxi dress for everyday wear",
+    "image_path":"images\\1000178.jpg"
+  },
+  {
+    "item_idx":179,
+    "article_id":"1000179",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"beige coat for everyday wear",
+    "image_path":"images\\1000179.jpg"
+  },
+  {
+    "item_idx":180,
+    "article_id":"1000180",
+    "category":"Topwear",
+    "product_type":"Blouse",
+    "description":"black blouse for everyday wear",
+    "image_path":"images\\1000180.jpg"
+  },
+  {
+    "item_idx":181,
+    "article_id":"1000181",
+    "category":"Bottomwear",
+    "product_type":"Trousers",
+    "description":"blue trousers for everyday wear",
+    "image_path":"images\\1000181.jpg"
+  },
+  {
+    "item_idx":182,
+    "article_id":"1000182",
+    "category":"Footwear",
+    "product_type":"Sandals",
+    "description":"red sandals for everyday wear",
+    "image_path":"images\\1000182.jpg"
+  },
+  {
+    "item_idx":183,
+    "article_id":"1000183",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"red bag for everyday wear",
+    "image_path":"images\\1000183.jpg"
+  },
+  {
+    "item_idx":184,
+    "article_id":"1000184",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"blue maxi dress for everyday wear",
+    "image_path":"images\\1000184.jpg"
+  },
+  {
+    "item_idx":185,
+    "article_id":"1000185",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"green blazer for everyday wear",
+    "image_path":"images\\1000185.jpg"
+  },
+  {
+    "item_idx":186,
+    "article_id":"1000186",
+    "category":"Topwear",
+    "product_type":"T-shirt",
+    "description":"white t-shirt for everyday wear",
+    "image_path":"images\\1000186.jpg"
+  },
+  {
+    "item_idx":187,
+    "article_id":"1000187",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"navy skirt for everyday wear",
+    "image_path":"images\\1000187.jpg"
+  },
+  {
+    "item_idx":188,
+    "article_id":"1000188",
+    "category":"Footwear",
+    "product_type":"Sandals",
+    "description":"black sandals for everyday wear",
+    "image_path":"images\\1000188.jpg"
+  },
+  {
+    "item_idx":189,
+    "article_id":"1000189",
+    "category":"Accessories",
+    "product_type":"Bag",
+    "description":"blue bag for everyday wear",
+    "image_path":"images\\1000189.jpg"
+  },
+  {
+    "item_idx":190,
+    "article_id":"1000190",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"green maxi dress for everyday wear",
+    "image_path":"images\\1000190.jpg"
+  },
+  {
+    "item_idx":191,
+    "article_id":"1000191",
+    "category":"Outerwear",
+    "product_type":"Coat",
+    "description":"white coat for everyday wear",
+    "image_path":"images\\1000191.jpg"
+  },
+  {
+    "item_idx":192,
+    "article_id":"1000192",
+    "category":"Topwear",
+    "product_type":"Sweater",
+    "description":"beige sweater for everyday wear",
+    "image_path":"images\\1000192.jpg"
+  },
+  {
+    "item_idx":193,
+    "article_id":"1000193",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"black skirt for everyday wear",
+    "image_path":"images\\1000193.jpg"
+  },
+  {
+    "item_idx":194,
+    "article_id":"1000194",
+    "category":"Footwear",
+    "product_type":"Heels",
+    "description":"black heels for everyday wear",
+    "image_path":"images\\1000194.jpg"
+  },
+  {
+    "item_idx":195,
+    "article_id":"1000195",
+    "category":"Accessories",
+    "product_type":"Belt",
+    "description":"green belt for everyday wear",
+    "image_path":"images\\1000195.jpg"
+  },
+  {
+    "item_idx":196,
+    "article_id":"1000196",
+    "category":"Dress",
+    "product_type":"Maxi dress",
+    "description":"white maxi dress for everyday wear",
+    "image_path":"images\\1000196.jpg"
+  },
+  {
+    "item_idx":197,
+    "article_id":"1000197",
+    "category":"Outerwear",
+    "product_type":"Blazer",
+    "description":"green blazer for everyday wear",
+    "image_path":"images\\1000197.jpg"
+  },
+  {
+    "item_idx":198,
+    "article_id":"1000198",
+    "category":"Topwear",
+    "product_type":"Shirt",
+    "description":"white shirt for everyday wear",
+    "image_path":"images\\1000198.jpg"
+  },
+  {
+    "item_idx":199,
+    "article_id":"1000199",
+    "category":"Bottomwear",
+    "product_type":"Skirt",
+    "description":"red skirt for everyday wear",
+    "image_path":"images\\1000199.jpg"
+  }
+]

@@ -1,0 +1,201 @@
+article_id,product_code,prod_name,product_type_name,product_group_name,colour_group_name,detail_desc,image_path
+1000000,P0000,Black T-shirt,T-shirt,Topwear,black,black t-shirt for everyday wear,images\1000000.jpg
+1000001,P0001,Beige Skirt,Skirt,Bottomwear,beige,beige skirt for everyday wear,images\1000001.jpg
+1000002,P0002,Navy Boots,Boots,Footwear,navy,navy boots for everyday wear,images\1000002.jpg
+1000003,P0003,White Bag,Bag,Accessories,white,white bag for everyday wear,images\1000003.jpg
+1000004,P0004,Blue Mini dress,Mini dress,Dress,blue,blue mini dress for everyday wear,images\1000004.jpg
+1000005,P0005,Black Jacket,Jacket,Outerwear,black,black jacket for everyday wear,images\1000005.jpg
+1000006,P0006,Beige T-shirt,T-shirt,Topwear,beige,beige t-shirt for everyday wear,images\1000006.jpg
+1000007,P0007,Black Trousers,Trousers,Bottomwear,black,black trousers for everyday wear,images\1000007.jpg
+1000008,P0008,Blue Boots,Boots,Footwear,blue,blue boots for everyday wear,images\1000008.jpg
+1000009,P0009,Grey Belt,Belt,Accessories,grey,grey belt for everyday wear,images\1000009.jpg
+1000010,P0010,Red Mini dress,Mini dress,Dress,red,red mini dress for everyday wear,images\1000010.jpg
+1000011,P0011,Navy Jacket,Jacket,Outerwear,navy,navy jacket for everyday wear,images\1000011.jpg
+1000012,P0012,Green Sweater,Sweater,Topwear,green,green sweater for everyday wear,images\1000012.jpg
+1000013,P0013,Navy Skirt,Skirt,Bottomwear,navy,navy skirt for everyday wear,images\1000013.jpg
+1000014,P0014,Green Boots,Boots,Footwear,green,green boots for everyday wear,images\1000014.jpg
+1000015,P0015,White Bag,Bag,Accessories,white,white bag for everyday wear,images\1000015.jpg
+1000016,P0016,White Maxi dress,Maxi dress,Dress,white,white maxi dress for everyday wear,images\1000016.jpg
+1000017,P0017,Green Coat,Coat,Outerwear,green,green coat for everyday wear,images\1000017.jpg
+1000018,P0018,Black Shirt,Shirt,Topwear,black,black shirt for everyday wear,images\1000018.jpg
+1000019,P0019,White Shorts,Shorts,Bottomwear,white,white shorts for everyday wear,images\1000019.jpg
+1000020,P0020,White Heels,Heels,Footwear,white,white heels for everyday wear,images\1000020.jpg
+1000021,P0021,Green Scarf,Scarf,Accessories,green,green scarf for everyday wear,images\1000021.jpg
+1000022,P0022,Beige Mini dress,Mini dress,Dress,beige,beige mini dress for everyday wear,images\1000022.jpg
+1000023,P0023,White Blazer,Blazer,Outerwear,white,white blazer for everyday wear,images\1000023.jpg
+1000024,P0024,Beige T-shirt,T-shirt,Topwear,beige,beige t-shirt for everyday wear,images\1000024.jpg
+1000025,P0025,White Skirt,Skirt,Bottomwear,white,white skirt for everyday wear,images\1000025.jpg
+1000026,P0026,White Boots,Boots,Footwear,white,white boots for everyday wear,images\1000026.jpg
+1000027,P0027,Red Hat,Hat,Accessories,red,red hat for everyday wear,images\1000027.jpg
+1000028,P0028,Green Maxi dress,Maxi dress,Dress,green,green maxi dress for everyday wear,images\1000028.jpg
+1000029,P0029,Green Jacket,Jacket,Outerwear,green,green jacket for everyday wear,images\1000029.jpg
+1000030,P0030,Beige Shirt,Shirt,Topwear,beige,beige shirt for everyday wear,images\1000030.jpg
+1000031,P0031,White Skirt,Skirt,Bottomwear,white,white skirt for everyday wear,images\1000031.jpg
+1000032,P0032,Beige Boots,Boots,Footwear,beige,beige boots for everyday wear,images\1000032.jpg
+1000033,P0033,Grey Belt,Belt,Accessories,grey,grey belt for everyday wear,images\1000033.jpg
+1000034,P0034,Red Maxi dress,Maxi dress,Dress,red,red maxi dress for everyday wear,images\1000034.jpg
+1000035,P0035,Beige Blazer,Blazer,Outerwear,beige,beige blazer for everyday wear,images\1000035.jpg
+1000036,P0036,Black Shirt,Shirt,Topwear,black,black shirt for everyday wear,images\1000036.jpg
+1000037,P0037,Black Trousers,Trousers,Bottomwear,black,black trousers for everyday wear,images\1000037.jpg
+1000038,P0038,Blue Sandals,Sandals,Footwear,blue,blue sandals for everyday wear,images\1000038.jpg
+1000039,P0039,White Scarf,Scarf,Accessories,white,white scarf for everyday wear,images\1000039.jpg
+1000040,P0040,Green Midi dress,Midi dress,Dress,green,green midi dress for everyday wear,images\1000040.jpg
+1000041,P0041,Grey Jacket,Jacket,Outerwear,grey,grey jacket for everyday wear,images\1000041.jpg
+1000042,P0042,Grey Sweater,Sweater,Topwear,grey,grey sweater for everyday wear,images\1000042.jpg
+1000043,P0043,Red Trousers,Trousers,Bottomwear,red,red trousers for everyday wear,images\1000043.jpg
+1000044,P0044,Beige Boots,Boots,Footwear,beige,beige boots for everyday wear,images\1000044.jpg
+1000045,P0045,Blue Scarf,Scarf,Accessories,blue,blue scarf for everyday wear,images\1000045.jpg
+1000046,P0046,Blue Mini dress,Mini dress,Dress,blue,blue mini dress for everyday wear,images\1000046.jpg
+1000047,P0047,Beige Coat,Coat,Outerwear,beige,beige coat for everyday wear,images\1000047.jpg
+1000048,P0048,Grey Blouse,Blouse,Topwear,grey,grey blouse for everyday wear,images\1000048.jpg
+1000049,P0049,Black Jeans,Jeans,Bottomwear,black,black jeans for everyday wear,images\1000049.jpg
+1000050,P0050,Navy Sneakers,Sneakers,Footwear,navy,navy sneakers for everyday wear,images\1000050.jpg
+1000051,P0051,Blue Belt,Belt,Accessories,blue,blue belt for everyday wear,images\1000051.jpg
+1000052,P0052,White Mini dress,Mini dress,Dress,white,white mini dress for everyday wear,images\1000052.jpg
+1000053,P0053,Blue Coat,Coat,Outerwear,blue,blue coat for everyday wear,images\1000053.jpg
+1000054,P0054,Red Sweater,Sweater,Topwear,red,red sweater for everyday wear,images\1000054.jpg
+1000055,P0055,White Jeans,Jeans,Bottomwear,white,white jeans for everyday wear,images\1000055.jpg
+1000056,P0056,Green Sandals,Sandals,Footwear,green,green sandals for everyday wear,images\1000056.jpg
+1000057,P0057,Red Bag,Bag,Accessories,red,red bag for everyday wear,images\1000057.jpg
+1000058,P0058,Navy Maxi dress,Maxi dress,Dress,navy,navy maxi dress for everyday wear,images\1000058.jpg
+1000059,P0059,Black Coat,Coat,Outerwear,black,black coat for everyday wear,images\1000059.jpg
+1000060,P0060,Navy Shirt,Shirt,Topwear,navy,navy shirt for everyday wear,images\1000060.jpg
+1000061,P0061,Red Jeans,Jeans,Bottomwear,red,red jeans for everyday wear,images\1000061.jpg
+1000062,P0062,Navy Boots,Boots,Footwear,navy,navy boots for everyday wear,images\1000062.jpg
+1000063,P0063,Navy Scarf,Scarf,Accessories,navy,navy scarf for everyday wear,images\1000063.jpg
+1000064,P0064,Black Mini dress,Mini dress,Dress,black,black mini dress for everyday wear,images\1000064.jpg
+1000065,P0065,Green Blazer,Blazer,Outerwear,green,green blazer for everyday wear,images\1000065.jpg
+1000066,P0066,Black Sweater,Sweater,Topwear,black,black sweater for everyday wear,images\1000066.jpg
+1000067,P0067,Green Jeans,Jeans,Bottomwear,green,green jeans for everyday wear,images\1000067.jpg
+1000068,P0068,Beige Sandals,Sandals,Footwear,beige,beige sandals for everyday wear,images\1000068.jpg
+1000069,P0069,Beige Bag,Bag,Accessories,beige,beige bag for everyday wear,images\1000069.jpg
+1000070,P0070,White Mini dress,Mini dress,Dress,white,white mini dress for everyday wear,images\1000070.jpg
+1000071,P0071,Grey Jacket,Jacket,Outerwear,grey,grey jacket for everyday wear,images\1000071.jpg
+1000072,P0072,Navy T-shirt,T-shirt,Topwear,navy,navy t-shirt for everyday wear,images\1000072.jpg
+1000073,P0073,Grey Trousers,Trousers,Bottomwear,grey,grey trousers for everyday wear,images\1000073.jpg
+1000074,P0074,Red Boots,Boots,Footwear,red,red boots for everyday wear,images\1000074.jpg
+1000075,P0075,Beige Hat,Hat,Accessories,beige,beige hat for everyday wear,images\1000075.jpg
+1000076,P0076,Beige Mini dress,Mini dress,Dress,beige,beige mini dress for everyday wear,images\1000076.jpg
+1000077,P0077,Red Blazer,Blazer,Outerwear,red,red blazer for everyday wear,images\1000077.jpg
+1000078,P0078,Green Sweater,Sweater,Topwear,green,green sweater for everyday wear,images\1000078.jpg
+1000079,P0079,Grey Shorts,Shorts,Bottomwear,grey,grey shorts for everyday wear,images\1000079.jpg
+1000080,P0080,Beige Sneakers,Sneakers,Footwear,beige,beige sneakers for everyday wear,images\1000080.jpg
+1000081,P0081,White Belt,Belt,Accessories,white,white belt for everyday wear,images\1000081.jpg
+1000082,P0082,Black Maxi dress,Maxi dress,Dress,black,black maxi dress for everyday wear,images\1000082.jpg
+1000083,P0083,Beige Blazer,Blazer,Outerwear,beige,beige blazer for everyday wear,images\1000083.jpg
+1000084,P0084,Black Blouse,Blouse,Topwear,black,black blouse for everyday wear,images\1000084.jpg
+1000085,P0085,Black Jeans,Jeans,Bottomwear,black,black jeans for everyday wear,images\1000085.jpg
+1000086,P0086,White Boots,Boots,Footwear,white,white boots for everyday wear,images\1000086.jpg
+1000087,P0087,Green Bag,Bag,Accessories,green,green bag for everyday wear,images\1000087.jpg
+1000088,P0088,Beige Midi dress,Midi dress,Dress,beige,beige midi dress for everyday wear,images\1000088.jpg
+1000089,P0089,Grey Coat,Coat,Outerwear,grey,grey coat for everyday wear,images\1000089.jpg
+1000090,P0090,Navy Blouse,Blouse,Topwear,navy,navy blouse for everyday wear,images\1000090.jpg
+1000091,P0091,Beige Shorts,Shorts,Bottomwear,beige,beige shorts for everyday wear,images\1000091.jpg
+1000092,P0092,Blue Heels,Heels,Footwear,blue,blue heels for everyday wear,images\1000092.jpg
+1000093,P0093,White Belt,Belt,Accessories,white,white belt for everyday wear,images\1000093.jpg
+1000094,P0094,Blue Midi dress,Midi dress,Dress,blue,blue midi dress for everyday wear,images\1000094.jpg
+1000095,P0095,Blue Coat,Coat,Outerwear,blue,blue coat for everyday wear,images\1000095.jpg
+1000096,P0096,Grey Sweater,Sweater,Topwear,grey,grey sweater for everyday wear,images\1000096.jpg
+1000097,P0097,White Jeans,Jeans,Bottomwear,white,white jeans for everyday wear,images\1000097.jpg
+1000098,P0098,Blue Sneakers,Sneakers,Footwear,blue,blue sneakers for everyday wear,images\1000098.jpg
+1000099,P0099,White Scarf,Scarf,Accessories,white,white scarf for everyday wear,images\1000099.jpg
+1000100,P0100,Beige Midi dress,Midi dress,Dress,beige,beige midi dress for everyday wear,images\1000100.jpg
+1000101,P0101,Grey Jacket,Jacket,Outerwear,grey,grey jacket for everyday wear,images\1000101.jpg
+1000102,P0102,Blue Blouse,Blouse,Topwear,blue,blue blouse for everyday wear,images\1000102.jpg
+1000103,P0103,Red Trousers,Trousers,Bottomwear,red,red trousers for everyday wear,images\1000103.jpg
+1000104,P0104,Beige Heels,Heels,Footwear,beige,beige heels for everyday wear,images\1000104.jpg
+1000105,P0105,Grey Bag,Bag,Accessories,grey,grey bag for everyday wear,images\1000105.jpg
+1000106,P0106,White Mini dress,Mini dress,Dress,white,white mini dress for everyday wear,images\1000106.jpg
+1000107,P0107,Black Jacket,Jacket,Outerwear,black,black jacket for everyday wear,images\1000107.jpg
+1000108,P0108,Beige T-shirt,T-shirt,Topwear,beige,beige t-shirt for everyday wear,images\1000108.jpg
+1000109,P0109,Blue Trousers,Trousers,Bottomwear,blue,blue trousers for everyday wear,images\1000109.jpg
+1000110,P0110,Grey Heels,Heels,Footwear,grey,grey heels for everyday wear,images\1000110.jpg
+1000111,P0111,Blue Belt,Belt,Accessories,blue,blue belt for everyday wear,images\1000111.jpg
+1000112,P0112,Navy Midi dress,Midi dress,Dress,navy,navy midi dress for everyday wear,images\1000112.jpg
+1000113,P0113,Black Coat,Coat,Outerwear,black,black coat for everyday wear,images\1000113.jpg
+1000114,P0114,Red Sweater,Sweater,Topwear,red,red sweater for everyday wear,images\1000114.jpg
+1000115,P0115,Red Shorts,Shorts,Bottomwear,red,red shorts for everyday wear,images\1000115.jpg
+1000116,P0116,Grey Heels,Heels,Footwear,grey,grey heels for everyday wear,images\1000116.jpg
+1000117,P0117,Beige Belt,Belt,Accessories,beige,beige belt for everyday wear,images\1000117.jpg
+1000118,P0118,Beige Maxi dress,Maxi dress,Dress,beige,beige maxi dress for everyday wear,images\1000118.jpg
+1000119,P0119,Black Jacket,Jacket,Outerwear,black,black jacket for everyday wear,images\1000119.jpg
+1000120,P0120,Black Shirt,Shirt,Topwear,black,black shirt for everyday wear,images\1000120.jpg
+1000121,P0121,Grey Jeans,Jeans,Bottomwear,grey,grey jeans for everyday wear,images\1000121.jpg
+1000122,P0122,Black Boots,Boots,Footwear,black,black boots for everyday wear,images\1000122.jpg
+1000123,P0123,Navy Bag,Bag,Accessories,navy,navy bag for everyday wear,images\1000123.jpg
+1000124,P0124,White Midi dress,Midi dress,Dress,white,white midi dress for everyday wear,images\1000124.jpg
+1000125,P0125,Beige Blazer,Blazer,Outerwear,beige,beige blazer for everyday wear,images\1000125.jpg
+1000126,P0126,White Sweater,Sweater,Topwear,white,white sweater for everyday wear,images\1000126.jpg
+1000127,P0127,Black Trousers,Trousers,Bottomwear,black,black trousers for everyday wear,images\1000127.jpg
+1000128,P0128,Blue Sneakers,Sneakers,Footwear,blue,blue sneakers for everyday wear,images\1000128.jpg
+1000129,P0129,Red Scarf,Scarf,Accessories,red,red scarf for everyday wear,images\1000129.jpg
+1000130,P0130,Green Midi dress,Midi dress,Dress,green,green midi dress for everyday wear,images\1000130.jpg
+1000131,P0131,Red Jacket,Jacket,Outerwear,red,red jacket for everyday wear,images\1000131.jpg
+1000132,P0132,Navy Sweater,Sweater,Topwear,navy,navy sweater for everyday wear,images\1000132.jpg
+1000133,P0133,Grey Skirt,Skirt,Bottomwear,grey,grey skirt for everyday wear,images\1000133.jpg
+1000134,P0134,White Sandals,Sandals,Footwear,white,white sandals for everyday wear,images\1000134.jpg
+1000135,P0135,Grey Bag,Bag,Accessories,grey,grey bag for everyday wear,images\1000135.jpg
+1000136,P0136,White Mini dress,Mini dress,Dress,white,white mini dress for everyday wear,images\1000136.jpg
+1000137,P0137,Beige Jacket,Jacket,Outerwear,beige,beige jacket for everyday wear,images\1000137.jpg
+1000138,P0138,Navy Shirt,Shirt,Topwear,navy,navy shirt for everyday wear,images\1000138.jpg
+1000139,P0139,White Skirt,Skirt,Bottomwear,white,white skirt for everyday wear,images\1000139.jpg
+1000140,P0140,Green Boots,Boots,Footwear,green,green boots for everyday wear,images\1000140.jpg
+1000141,P0141,Navy Scarf,Scarf,Accessories,navy,navy scarf for everyday wear,images\1000141.jpg
+1000142,P0142,Red Maxi dress,Maxi dress,Dress,red,red maxi dress for everyday wear,images\1000142.jpg
+1000143,P0143,Black Blazer,Blazer,Outerwear,black,black blazer for everyday wear,images\1000143.jpg
+1000144,P0144,White Shirt,Shirt,Topwear,white,white shirt for everyday wear,images\1000144.jpg
+1000145,P0145,Red Trousers,Trousers,Bottomwear,red,red trousers for everyday wear,images\1000145.jpg
+1000146,P0146,White Sneakers,Sneakers,Footwear,white,white sneakers for everyday wear,images\1000146.jpg
+1000147,P0147,Red Belt,Belt,Accessories,red,red belt for everyday wear,images\1000147.jpg
+1000148,P0148,Beige Maxi dress,Maxi dress,Dress,beige,beige maxi dress for everyday wear,images\1000148.jpg
+1000149,P0149,Green Blazer,Blazer,Outerwear,green,green blazer for everyday wear,images\1000149.jpg
+1000150,P0150,Red Blouse,Blouse,Topwear,red,red blouse for everyday wear,images\1000150.jpg
+1000151,P0151,Red Shorts,Shorts,Bottomwear,red,red shorts for everyday wear,images\1000151.jpg
+1000152,P0152,White Sneakers,Sneakers,Footwear,white,white sneakers for everyday wear,images\1000152.jpg
+1000153,P0153,Red Hat,Hat,Accessories,red,red hat for everyday wear,images\1000153.jpg
+1000154,P0154,Black Midi dress,Midi dress,Dress,black,black midi dress for everyday wear,images\1000154.jpg
+1000155,P0155,Navy Coat,Coat,Outerwear,navy,navy coat for everyday wear,images\1000155.jpg
+1000156,P0156,Navy Shirt,Shirt,Topwear,navy,navy shirt for everyday wear,images\1000156.jpg
+1000157,P0157,Blue Shorts,Shorts,Bottomwear,blue,blue shorts for everyday wear,images\1000157.jpg
+1000158,P0158,White Sneakers,Sneakers,Footwear,white,white sneakers for everyday wear,images\1000158.jpg
+1000159,P0159,Navy Bag,Bag,Accessories,navy,navy bag for everyday wear,images\1000159.jpg
+1000160,P0160,Black Mini dress,Mini dress,Dress,black,black mini dress for everyday wear,images\1000160.jpg
+1000161,P0161,Navy Coat,Coat,Outerwear,navy,navy coat for everyday wear,images\1000161.jpg
+1000162,P0162,Navy Sweater,Sweater,Topwear,navy,navy sweater for everyday wear,images\1000162.jpg
+1000163,P0163,Red Jeans,Jeans,Bottomwear,red,red jeans for everyday wear,images\1000163.jpg
+1000164,P0164,Black Sandals,Sandals,Footwear,black,black sandals for everyday wear,images\1000164.jpg
+1000165,P0165,Beige Scarf,Scarf,Accessories,beige,beige scarf for everyday wear,images\1000165.jpg
+1000166,P0166,Beige Mini dress,Mini dress,Dress,beige,beige mini dress for everyday wear,images\1000166.jpg
+1000167,P0167,White Blazer,Blazer,Outerwear,white,white blazer for everyday wear,images\1000167.jpg
+1000168,P0168,Blue Shirt,Shirt,Topwear,blue,blue shirt for everyday wear,images\1000168.jpg
+1000169,P0169,Beige Trousers,Trousers,Bottomwear,beige,beige trousers for everyday wear,images\1000169.jpg
+1000170,P0170,Navy Boots,Boots,Footwear,navy,navy boots for everyday wear,images\1000170.jpg
+1000171,P0171,Black Hat,Hat,Accessories,black,black hat for everyday wear,images\1000171.jpg
+1000172,P0172,Green Midi dress,Midi dress,Dress,green,green midi dress for everyday wear,images\1000172.jpg
+1000173,P0173,Beige Coat,Coat,Outerwear,beige,beige coat for everyday wear,images\1000173.jpg
+1000174,P0174,Navy Shirt,Shirt,Topwear,navy,navy shirt for everyday wear,images\1000174.jpg
+1000175,P0175,Blue Jeans,Jeans,Bottomwear,blue,blue jeans for everyday wear,images\1000175.jpg
+1000176,P0176,Grey Sneakers,Sneakers,Footwear,grey,grey sneakers for everyday wear,images\1000176.jpg
+1000177,P0177,Beige Belt,Belt,Accessories,beige,beige belt for everyday wear,images\1000177.jpg
+1000178,P0178,Green Maxi dress,Maxi dress,Dress,green,green maxi dress for everyday wear,images\1000178.jpg
+1000179,P0179,Beige Coat,Coat,Outerwear,beige,beige coat for everyday wear,images\1000179.jpg
+1000180,P0180,Black Blouse,Blouse,Topwear,black,black blouse for everyday wear,images\1000180.jpg
+1000181,P0181,Blue Trousers,Trousers,Bottomwear,blue,blue trousers for everyday wear,images\1000181.jpg
+1000182,P0182,Red Sandals,Sandals,Footwear,red,red sandals for everyday wear,images\1000182.jpg
+1000183,P0183,Red Bag,Bag,Accessories,red,red bag for everyday wear,images\1000183.jpg
+1000184,P0184,Blue Maxi dress,Maxi dress,Dress,blue,blue maxi dress for everyday wear,images\1000184.jpg
+1000185,P0185,Green Blazer,Blazer,Outerwear,green,green blazer for everyday wear,images\1000185.jpg
+1000186,P0186,White T-shirt,T-shirt,Topwear,white,white t-shirt for everyday wear,images\1000186.jpg
+1000187,P0187,Navy Skirt,Skirt,Bottomwear,navy,navy skirt for everyday wear,images\1000187.jpg
+1000188,P0188,Black Sandals,Sandals,Footwear,black,black sandals for everyday wear,images\1000188.jpg
+1000189,P0189,Blue Bag,Bag,Accessories,blue,blue bag for everyday wear,images\1000189.jpg
+1000190,P0190,Green Maxi dress,Maxi dress,Dress,green,green maxi dress for everyday wear,images\1000190.jpg
+1000191,P0191,White Coat,Coat,Outerwear,white,white coat for everyday wear,images\1000191.jpg
+1000192,P0192,Beige Sweater,Sweater,Topwear,beige,beige sweater for everyday wear,images\1000192.jpg
+1000193,P0193,Black Skirt,Skirt,Bottomwear,black,black skirt for everyday wear,images\1000193.jpg
+1000194,P0194,Black Heels,Heels,Footwear,black,black heels for everyday wear,images\1000194.jpg
+1000195,P0195,Green Belt,Belt,Accessories,green,green belt for everyday wear,images\1000195.jpg
+1000196,P0196,White Maxi dress,Maxi dress,Dress,white,white maxi dress for everyday wear,images\1000196.jpg
+1000197,P0197,Green Blazer,Blazer,Outerwear,green,green blazer for everyday wear,images\1000197.jpg
+1000198,P0198,White Shirt,Shirt,Topwear,white,white shirt for everyday wear,images\1000198.jpg
+1000199,P0199,Red Skirt,Skirt,Bottomwear,red,red skirt for everyday wear,images\1000199.jpg

@@ -1,0 +1,31 @@
+# Dataset
+dataset: synthetic
+data_dir: data
+artifacts_dir: artifacts
+
+# Training
+batch_size: 256
+learning_rate: 0.001
+epochs: 5
+embedding_dim: 128
+hidden_dim: 256
+temperature: 0.05
+max_history: 10
+
+# Loss: InfoNCE (in-batch negatives)
+loss: infonce
+
+# Fusion weights (models/fusion.py)
+image_weight: 0.6
+text_weight: 0.4
+
+# Stage 2 guardrails (serving/api.py)
+guardrails:
+  latency_sla_ms: 500
+  rate_limit_per_minute: 120
+  audit_log_enabled: true
+  pii_redact_responses: true
+  inference_cost_usd:
+    recommend: 0.00012
+    search: 0.0018
+    complete_the_look: 0.00008

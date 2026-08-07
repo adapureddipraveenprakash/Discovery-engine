@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.gitignore
+data/raw/*
+artifacts/*
+!artifacts/.gitkeep
+*.md
+.env
+.venv

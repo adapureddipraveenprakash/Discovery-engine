@@ -1,0 +1,22 @@
+# Dataset
+dataset: ml-1m
+data_path: data/raw/ml-1m/ratings.dat
+data_sep: "::"
+
+# Training
+batch_size: 1024
+learning_rate: 0.001
+epochs: 25
+embedding_dim: 128
+hidden_dim: 256
+temperature: 0.05
+num_negatives: 4
+
+# Loss: "infonce" (in-batch negatives) or "bpr" (random negatives)
+# Note: BPR outperformed InfoNCE on ML-1M (see ablation_results.md).
+# Hypothesis: ML-1M's popularity skew causes in-batch negatives to wrongly
+# push down popular items that users would actually like.
+loss: bpr
+
+# Negative sampling: "uniform" or "popularity" (hard negatives)
+negative_sampling: popularity

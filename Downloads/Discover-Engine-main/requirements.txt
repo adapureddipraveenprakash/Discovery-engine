@@ -1,0 +1,15 @@
+# Discovery Engine — pinned deps compatible with reference repos
+torch>=2.0.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0,<3.0.0
+pandas>=2.0.0,<3.0.0
+pyyaml>=6.0,<7.0
+fastapi>=0.110.0,<1.0.0
+uvicorn[standard]>=0.29.0,<1.0.0
+pydantic>=2.0.0,<3.0.0
+transformers>=4.26.1,<5.0.0
+datasets>=2.10.0,<3.0.0
+Pillow>=9.0.0,<11.0.0
+pyarrow>=12.0.0
+pytest>=7.0.0,<9.0.0
+httpx>=0.27.0,<1.0.0
